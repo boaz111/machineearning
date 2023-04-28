@@ -2,8 +2,8 @@ import os
 from google_images_search import GoogleImagesSearch
 
 # Replace with your own API Key and Custom Search Engine ID
-API_KEY = 'AIzaSyBYzXTbNsbdgpdf6lKOn2n4XUfXy-KNuuA'
-CSE_ID = '27e0ab743323f4600'
+API_KEY = ''
+CSE_ID = ''
 
 
 def search_and_download_images(query, path, num_images=10):
